@@ -1,0 +1,79 @@
+/* Artfully masterminded by ZURB  */
+
+/* --------------------------------------------------
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+body {
+   background-color: #fff5f5;
+}
+
+.container {
+    padding: 48px 0 48px 0;
+}
+
+.header.container {
+    background: url('../images/header-background.png');
+    -moz-box-shadow: 0 2px 2px #999;
+    -webkit-box-shadow: 0 2px 2px #999;
+    box-shadow: 0 2px 2px #999;
+    margin-bottom: 2px;
+}
+
+.themes.container {
+    background-color: #ffeded;
+}
+
+.footer.container {
+   background: url('../images/section-background.png');
+}
+
+.header {
+    padding: 15px 0 15px 0;
+}
+
+.header dl {
+    float: right;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.header dt {
+    float: left;
+    line-height: 32px;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.header dt a:hover {
+    color: #bb0000;
+}
+
+.header a {
+    color: #fff;
+}
+
+.header a.logo {
+    font-family: 'Norican', cursive;
+    font-size: 32px;
+}
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
