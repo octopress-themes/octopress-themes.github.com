@@ -33,12 +33,18 @@ h1, h2, h3, h4, p, dt, input {
     margin-bottom: 2px;
 }
 
-.themes.container {
+.gallery.container {
     background-color: #ffeded;
 }
 
 .footer.container {
    background: url('../images/section-background.png');
+}
+
+.subscribe-section {
+    background-color: #fffaf5;
+    border: 1px solid #eedcdc;
+    padding: 6px 24px;
 }
 
 .header {
@@ -71,14 +77,87 @@ h1, h2, h3, h4, p, dt, input {
     font-size: 32px;
 }
 
+.headline-container {
+    display: table; height: 223;
+}
 
-/* -----------------------------------------
-   Page Name 1
------------------------------------------ */
+.headline {
+    display: table-cell; vertical-align: middle;
+}
 
+.coming-soon-placeholder {
+    height: 240px;
+    width: 240px;
+    border: 1px dashed #999;
+    background-color: #fff5f5;
+}
 
+.options {
+    margin-top: 6px;
+    overflow: hidden;
+}
 
+.options dl {
+    margin-top: 14px;
+}
 
-/* -----------------------------------------
-   Page Name 2
------------------------------------------ */
+.options dt {
+    margin: 0 0 14px 0;
+}
+
+.options a {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #666;
+
+}
+
+.options a:hover {
+    color: #333;
+}
+
+.github {
+    background: url('../images/github-icon.png') left center no-repeat;
+    padding-left: 24px;
+}
+
+.link {
+    background: url('../images/link-icon.png') left center no-repeat;
+    padding-left: 24px;
+}
+
+.hover-image {
+    position: absolute;
+    top: 144px;
+    left: 14px;
+    display: none;
+}
+
+.theme {
+    width: 240px;
+}
+
+.theme-image:hover .hover-image {
+    display: block;
+}
+
+.theme .options {
+    background-color: #eedede;
+    padding: 0 14px;
+}
+
+.plugins {
+    margin-top: 24px;
+}
+
+.footer dt {
+    margin: 0 0 8px 0;
+}
+
+.footer dt a {
+    color: #777;
+}
+
+.footer dt a:hover {
+    color: #333;
+}
