@@ -13,7 +13,7 @@
    Shared Styles
 ----------------------------------------- */
 body {
-   background-color: #fff5f5;
+   background: url('../images/section-background.png');
 }
 
 h1, h2, h3, h4, p, dt, input {
@@ -23,6 +23,10 @@ h1, h2, h3, h4, p, dt, input {
 .container {
     padding: 48px 0 48px 0;
 
+}
+
+.main-section.container, .email-section.container {
+    background-color: #fff5f5;
 }
 
 .header.container {
