@@ -97,6 +97,8 @@ h1, h2, h3, h4, p, dt, input {
 }
 
 .options {
+    background-color: #eedede;
+    padding: 0 15px;
     margin-top: 6px;
     overflow: hidden;
 }
@@ -137,17 +139,12 @@ h1, h2, h3, h4, p, dt, input {
     display: none;
 }
 
-.theme {
+.theme, .plugin {
     width: 240px;
 }
 
 .theme-image:hover .hover-image {
     display: block;
-}
-
-.theme .options {
-    background-color: #eedede;
-    padding: 0 15px;
 }
 
 .plugins {
