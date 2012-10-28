@@ -141,6 +141,7 @@ h1, h2, h3, h4, p, dt, input {
 
 .theme, .plugin {
     width: 240px;
+    margin-bottom: 20px;
 }
 
 .theme-image:hover .hover-image {
