@@ -8,47 +8,57 @@
 
 <url>
   <loc>http://octopressthemes.com/</loc>
-  <lastmod>2012-10-22T22:38:50+00:00</lastmod>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://octopressthemes.com/themes.html</loc>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/faq.html</loc>
-  <lastmod>2012-10-22T22:38:50+00:00</lastmod>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/</loc>
-  <lastmod>2012-10-23T00:14:48+00:00</lastmod>
+  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/about.html</loc>
-  <lastmod>2012-10-22T22:38:50+00:00</lastmod>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/terms.html</loc>
-  <lastmod>2012-10-22T22:38:50+00:00</lastmod>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/contact.html</loc>
-  <lastmod>2012-10-22T22:38:50+00:00</lastmod>
+  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/blog/archives/</loc>
-  <lastmod>2012-10-23T00:14:48+00:00</lastmod>
+  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://octopressthemes.com/blog/2012/11/04/how-to-change-to-a-photo-background-for-your-octopress-blog/</loc>
+  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/2012/10/22/how-to-add-a-popular-posts-plugin-on-octopress/</loc>
-  <lastmod>2012-10-23T00:14:48+00:00</lastmod>
+  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/2012/10/18/how-to-add-an-email-subscription-plugin-on-octopress/</loc>
-  <lastmod>2012-10-23T00:14:48+00:00</lastmod>
+  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 </urlset>
