@@ -94,6 +94,17 @@ h1, h2, h3, h4, p, dt, input {
     width: 240px;
     border: 1px dashed #999;
     background-color: #fff5f5;
+    text-align: center;
+}
+
+.coming-soon-placeholder a {
+    font-size: 1.8em;
+    color: #666;
+    line-height: 240px;
+}
+
+.coming-soon-placeholder a:hover {
+    color: #333;
 }
 
 .options {
