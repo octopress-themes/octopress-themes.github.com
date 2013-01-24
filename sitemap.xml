@@ -8,57 +8,58 @@
 
 <url>
   <loc>http://octopressthemes.com/</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
-  <loc>http://octopressthemes.com/themes.html</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://octopressthemes.com/themes/1/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
-  <loc>http://octopressthemes.com/faq.html</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://octopressthemes.com/faq/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/</loc>
-  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
 </url>
 <url>
-  <loc>http://octopressthemes.com/about.html</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://octopressthemes.com/about/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
-  <loc>http://octopressthemes.com/terms.html</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://octopressthemes.com/terms/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
-  <loc>http://octopressthemes.com/contact.html</loc>
-  <lastmod>2012-11-04T09:20:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://octopressthemes.com/contact/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://octopressthemes.com/themes/2/</loc>
+  <lastmod>2013-01-24T10:11:02+00:00</lastmod>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/blog/archives/</loc>
-  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
+</url>
+<url>
+  <loc>http://octopressthemes.com/blog/2012/12/11/adding-a-related-posts-section-to-your-post/</loc>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
+</url>
+<url>
+  <loc>http://octopressthemes.com/blog/2012/11/10/adding-a-modal-dialog-to-octopress-with-foundation-zurb/</loc>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/2012/11/04/how-to-change-to-a-photo-background-for-your-octopress-blog/</loc>
-  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/2012/10/22/how-to-add-a-popular-posts-plugin-on-octopress/</loc>
-  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
 </url>
 <url>
   <loc>http://octopressthemes.com/blog/2012/10/18/how-to-add-an-email-subscription-plugin-on-octopress/</loc>
-  <lastmod>2012-11-04T09:55:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2012-12-11T22:42:17+00:00</lastmod>
 </url>
 </urlset>
