@@ -37,7 +37,7 @@ h1, h2, h3, h4, p, dt, input {
     margin-bottom: 2px;
 }
 
-.gallery.container {
+.gallery.container, .theme-description.container {
     background-color: #ffeded;
 }
 
@@ -49,6 +49,10 @@ h1, h2, h3, h4, p, dt, input {
     background-color: #fffaf5;
     border: 1px solid #eedcdc;
     padding: 6px 24px;
+}
+
+.preview-section {
+    margin-top: 24px;
 }
 
 .header {
