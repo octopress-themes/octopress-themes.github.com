@@ -41,6 +41,10 @@ h1, h2, h3, h4, p, dt, input {
     background-color: #ffeded;
 }
 
+.theme-description table td:first-child {
+    font-weight: bold;
+}
+
 .footer.container {
    background: url('../images/section-background.png');
 }
@@ -49,6 +53,12 @@ h1, h2, h3, h4, p, dt, input {
     background-color: #fffaf5;
     border: 1px solid #eedcdc;
     padding: 6px 24px;
+}
+
+.buy-section {
+    background-color: #fffaf5;
+    border: 1px solid #eedcdc;
+    padding: 24px;
 }
 
 .preview-section {
