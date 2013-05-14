@@ -25,6 +25,10 @@ h1, h2, h3, h4, p, dt, input {
 
 }
 
+#disclaimer {
+    padding: 12px 0px;
+}
+
 .main-section.container, .email-section.container {
     background-color: #fff5f5;
 }
