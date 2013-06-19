@@ -191,3 +191,37 @@ h1, h2, h3, h4, p, dt, input {
 .footer dt a:hover {
     color: #333;
 }
+
+.hover-block {
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
+    display: none;
+    height: 30px;
+    top: 170px;
+    font-size: 1.2em;
+    color: #000;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+.screenshot {
+    width: 300px;
+    height: 200px;
+}
+
+.screenshot:hover > .hover-block {
+    display: block;
+}
+
+#lawless-lobsters-full {
+    background-image: url('../images/lawless-lobsters-full-thumbnail.png')
+}
+
+#lawless-lobsters-tablet {
+    background-image: url('../images/lawless-lobsters-tablet-thumbnail.png')
+}
+
+#lawless-lobsters-phone {
+    background-image: url('../images/lawless-lobsters-phone-thumbnail.png')
+}
