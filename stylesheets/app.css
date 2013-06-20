@@ -214,6 +214,10 @@ h1, h2, h3, h4, p, dt, input {
     display: block;
 }
 
+.screenshot-row {
+    margin-bottom: 48px;
+}
+
 #lawless-lobsters-full {
     background-image: url('../images/lawless-lobsters-full-thumbnail.png')
 }
@@ -224,4 +228,16 @@ h1, h2, h3, h4, p, dt, input {
 
 #lawless-lobsters-phone {
     background-image: url('../images/lawless-lobsters-phone-thumbnail.png')
+}
+
+#laundry-lobsters-full {
+    background-image: url('../images/laundry-lobsters-full-thumbnail.png')
+}
+
+#lozenge-lobsters-full {
+    background-image: url('../images/lozenge-lobsters-full-thumbnail.png')
+}
+
+#lozenge-lobsters-font {
+    background-image: url('../images/lozenge-lobsters-font-thumbnail.png')
 }

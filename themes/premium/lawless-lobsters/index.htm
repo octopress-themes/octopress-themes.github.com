@@ -23,8 +23,8 @@
     <!-- Included CSS Files (Compressed) -->
     <link rel="stylesheet" href="../../../stylesheets/foundation.min.css">
     <link rel="stylesheet" href="../../../stylesheets/app.css">
-    <link href='http://fonts.googleapis.com/css?family=Norican' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+    <link href="http://fonts.googleapis.com/css?family=Norican" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <script src="../../../javascripts/modernizr.foundation.js"></script>
 
@@ -58,32 +58,65 @@
 	</div>
       </div>
 
-      <div class="row">
-	<div class="four columns">
-	  <h4>Full Screenshot</h4>
-          <a href="#" data-reveal-id="lawless-lobsters-full-modal">
-  	    <div class="screenshot" id="lawless-lobsters-full">
-	      <div class="hover-block">1280 x 800 resolution</div>
-	    </div>
-          </a>
-	</div>
+      <div class="screenshot-row">
+	<div class="row">
+	  <div class="four columns">
+	    <h4>Full Screenshot</h4>
+            <a href="#" data-reveal-id="lawless-lobsters-full-modal">
+  	      <div class="screenshot" id="lawless-lobsters-full">
+		<div class="hover-block">1280 x 800 resolution</div>
+	      </div>
+            </a>
+	  </div>
 
-	<div class="four columns">
-	  <h4>Tablet Screenshot</h4>
-          <a href="#" data-reveal-id="lawless-lobsters-tablet-modal">
-	    <div class="screenshot" id="lawless-lobsters-tablet">
-	      <div class="hover-block">1024 x 768 resolution</div>
-	    </div>
-	  </a>
-	</div>
+	  <div class="four columns">
+	    <h4>Tablet Screenshot</h4>
+            <a href="#" data-reveal-id="lawless-lobsters-tablet-modal">
+	      <div class="screenshot" id="lawless-lobsters-tablet">
+		<div class="hover-block">1024 x 768 resolution</div>
+	      </div>
+	    </a>
+	  </div>
 
-	<div class="four columns">
-	  <h4>Phone Screenshot</h4>
-          <a href="#" data-reveal-id="lawless-lobsters-phone-modal">
-	    <div class="screenshot" id="lawless-lobsters-phone">
-	      <div class="hover-block">640 x 960 resolution</div>
-	    </div>
-	  </a>
+	  <div class="four columns">
+	    <h4>Phone Screenshot</h4>
+            <a href="#" data-reveal-id="lawless-lobsters-phone-modal">
+	      <div class="screenshot" id="lawless-lobsters-phone">
+		<div class="hover-block">640 x 960 resolution</div>
+	      </div>
+	    </a>
+	  </div>
+	</div>
+      </div>
+
+      <div class="screenshot-row">
+	<div class="row">
+	  <div class="four columns">
+	    <h4>Laundry lobsters color scheme</h4>
+            <a href="#" data-reveal-id="laundry-lobsters-full-modal">
+  	      <div class="screenshot" id="laundry-lobsters-full">
+		<div class="hover-block">1280 x 800 resolution</div>
+	      </div>
+            </a>
+	  </div>
+
+	  <div class="four columns">
+	    <h4>Lozenge lobsters color scheme</h4>
+            <a href="#" data-reveal-id="lozenge-lobsters-full-modal">
+	      <div class="screenshot" id="lozenge-lobsters-full">
+		<div class="hover-block">1024 x 768 resolution</div>
+	      </div>
+	    </a>
+	  </div>
+
+	  <div class="four columns">
+	    <h4>Lozenge lobsters in alternative fonts</h4>
+            <a href="#" data-reveal-id="lozenge-lobsters-font-modal">
+	      <div class="screenshot" id="lozenge-lobsters-font">
+		<div class="hover-block">Alternative font, 1280 x 800</div>
+	      </div>
+	    </a>
+	  </div>
 	</div>
       </div>
 
@@ -177,6 +210,55 @@
 	      The regular license grants you the purchaser a non-exclusive right to use the digital work. You cannot sell the digital work. If you wish to purchase an extended license, please contact <a href="mailto:support@octopressthemes.com">support@octopressthemes.com</a>.
 	    </p>
 	    <a class="button success large radius" href="#">Buy Now at $50</a>
+
+	    <table class="pricing-table">
+	      <thead>
+		<tr>
+		  <th>
+		    Basic
+		  </th>
+		  <th>
+		    Plus
+		  </th>
+		  <th>
+		    Ultimate
+		  </th>
+		</tr>
+	      </thead>
+	      <tbody>
+		<tr class="price">
+		  <td>$49</td>
+		  <td>$79</td>
+		  <td>$99</td>
+		</tr>
+		<tr class="description">
+		  <td>Just the theme</td>
+		  <td>Comes with 3 color schemes</td>
+		  <td>Comes with 3 color schemes and 3 font combinations</td>
+		</tr>
+		<tr class="bullet-item">
+		  <td>One theme</td>
+		  <td>One theme</td>
+		  <td>One theme</td>
+		</tr>
+		<tr class="bullet-item">
+		  <td></td>
+		  <td>3 color schemes</td>
+		  <td>3 color schemes</td>
+		</tr>
+		<tr class="bullet-item">
+		  <td></td>
+		  <td></td>
+		  <td>3 font combinations</td>
+		</tr>
+		<tr class="cta-button">
+		  <td><a class="button" href="#">Buy Now</a></td>
+		  <td><a class="button" href="#">Buy Now</a></td>
+		  <td><a class="button" href="#">Buy Now</a></td>
+		</tr>
+	      </tbody>
+	    </table>
+
 	  </div>
         </div>
       </div>
@@ -250,6 +332,18 @@
 
     <div id="lawless-lobsters-phone-modal" class="reveal-modal large">
       <img src="../../../images/lawless-lobsters-phone-screenshot.png" alt="Octopress themes: Lawless Lobsters Phone Screenshot">
+    </div>
+
+    <div id="laundry-lobsters-full-modal" class="reveal-modal large">
+      <img src="../../../images/laundry-lobsters-full-screenshot.png" alt="Octopress themes: Laundry Lobsters Full Screenshot">
+    </div>
+
+    <div id="lozenge-lobsters-full-modal" class="reveal-modal large">
+      <img src="../../../images/lozenge-lobsters-full-screenshot.png" alt="Octopress themes: Lozenge Lobsters Full Screenshot">
+    </div>
+
+    <div id="lozenge-lobsters-font-modal" class="reveal-modal large">
+      <img src="../../../images/lozenge-lobsters-font-screenshot.png" alt="Octopress themes: Lozenge Lobsters Font Screenshot">
     </div>
 
     <script type="text/javascript">
