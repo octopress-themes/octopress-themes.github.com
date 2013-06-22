@@ -45,8 +45,36 @@ h1, h2, h3, h4, p, dt, input {
     background-color: #ffeded;
 }
 
-.theme-description table td:first-child {
+table.attributes td:first-child {
     font-weight: bold;
+}
+
+table.pricing {
+    width: 100%;
+}
+
+table.pricing th, table.pricing td {
+    text-align: center;
+}
+
+table.pricing td:first-child {
+    text-align: left;
+}
+
+table.pricing tr.price > td:not(:first-child) {
+    font-size: 1.3em;
+}
+
+table.pricing th:nth-child(3) {
+    background-color: #c4c1be;
+}
+
+table.pricing td:nth-child(3) {
+    background-color: #f2f2f2;
+}
+
+table.pricing tr:nth-child(2n+2) td:nth-child(3) {
+    background-color: #ececec;
 }
 
 .footer.container {
