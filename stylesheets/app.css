@@ -269,3 +269,35 @@ table.pricing tr:nth-child(2n+2) td:nth-child(3) {
 #lozenge-lobsters-font {
     background-image: url('../images/lozenge-lobsters-font-thumbnail.png')
 }
+
+#angry-abalone-full {
+    background-image: url('../images/angry-abalone-full-thumbnail.png')
+}
+
+#angry-abalone-tablet {
+    background-image: url('../images/angry-abalone-tablet-thumbnail.png')
+}
+
+#angry-abalone-phone {
+    background-image: url('../images/angry-abalone-phone-thumbnail.png')
+}
+
+#acne-abalone-full {
+    background-image: url('../images/acne-abalone-full-thumbnail.png')
+}
+
+#alloy-abalone-full {
+    background-image: url('../images/alloy-abalone-full-thumbnail.png')
+}
+
+#ampere-abalone-full {
+    background-image: url('../images/ampere-abalone-full-thumbnail.png')
+}
+
+#atlas-abalone-full {
+    background-image: url('../images/atlas-abalone-full-thumbnail.png')
+}
+
+#angry-abalone-font {
+    background-image: url('../images/angry-abalone-font-thumbnail.png')
+}
